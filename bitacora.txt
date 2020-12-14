@@ -40,3 +40,10 @@
                                     que no están en la rama DatosPersonales. Hubo conflictos
                                     en el fichero bitacora.txt
 16    Commit "Paso 16"
+17    Etiquetar master
+18    Subir master a GitHub         Al tratar de hacer push hubo un problema, porque se había
+      con su etiqueta               modificado algo en master en remoto. Se hizo pull y
+                                    hubo un conflicto en el fichero bitacora.txt, que se
+                                    resolvió antes de subir la rama master a GitHub.
+19    Edición final en
+      bitacora.txt
