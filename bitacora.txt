@@ -30,3 +30,13 @@
                                     cosas que no están presentes en la rama que se
                                     quiera fusionar con master.
 13    Commit "Paso 13"
+14    Merge master con rama         Recursiva, debido a que en el paso 12 se realizaron
+      Antecedentes                  anotaciones y por ello se modificó master, habiendo
+                                    ahora cosas que no estaban en la rama Antecedentes.
+                                    Hubo conflictos en el fichero bitacora.txt
+15    Merge master con rama         Recursiva, debido a que previamente se hizo un commit
+      DatosPersonales               en la rama master, y luego se fusionó la rama
+                                    Antecedentes con ella, habiendo ahora cosas en master
+                                    que no están en la rama DatosPersonales. Hubo conflictos
+                                    en el fichero bitacora.txt
+16    Commit "Paso 16"
