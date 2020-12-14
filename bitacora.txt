@@ -1,11 +1,17 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):    Baires Escalante, Jaime Eduardo   %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+01     Clonar repositorio
+02     Crear rama DatosPersonales
+       y checkout a ella
+03     Editar PlanVacunacion.txt
+04     Editar bitacora.txt
+05     Commit "Paso 05"
 06     Volver al commit inicial
 07     Crear rama Antecedentes
        y checkout a ella
