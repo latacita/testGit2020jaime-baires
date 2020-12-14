@@ -6,3 +6,9 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+06     Volver al commit inicial
+07     Crear rama Antecedentes
+       y checkout a ella
+08     Crear fichero antecedentes.txt
+       y añadir cosas a él
+09     Commit "Paso 09"
