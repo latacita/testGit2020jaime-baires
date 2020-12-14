@@ -6,3 +6,15 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+10     Volver a master
+11     Subir a remoto la rama
+       DatosPersonales
+12     Anotaciones                  La primer rama que se fusione se puede hacer
+                                    por fast-forward, ya que no ha habido ningún
+                                    cambio en la rama master luego de la creación
+                                    de las ramas. Sin embargo, la segunda rama que
+                                    se fusione tendría que ser recursiva, ya que
+                                    se ha modificado la rama master, y en ella hay
+                                    cosas que no están presentes en la rama que se
+                                    quiera fusionar con master.
+13    Commit "Paso 13"
